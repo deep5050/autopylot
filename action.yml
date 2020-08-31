@@ -34,9 +34,8 @@ inputs:
 
   output_dir:
     description: "Output directory"
-    default: './autopy-lot/'
+    default: "./autopy-lot/"
     required: true
-
 
   target_branch:
     description: "Branch that the badge will target. Defaults to the current branch."
